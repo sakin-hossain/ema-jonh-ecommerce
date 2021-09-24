@@ -1,0 +1,19 @@
+.shop {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.shop__container {
+  border-right: 1px solid lightgray;
+  margin-right: 10px;
+}
+.search__container {
+  text-align: center;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+.search__container input {
+  width: 50%;
+  outline: none;
+}

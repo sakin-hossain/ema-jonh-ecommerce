@@ -1,0 +1,16 @@
+.cart__style {
+  margin-top: 20px;
+}
+.cart__style span {
+  margin-left: 80px;
+  font-weight: 600;
+}
+.cart__style h2 {
+  text-align: center;
+}
+.cart__style h3 {
+  color: #b62704;
+}
+.cart__style p {
+  margin-bottom: 5px;
+}
