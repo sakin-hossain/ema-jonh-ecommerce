@@ -1,3 +1,3 @@
-# Ema-Jonh Ecommerce
+# Honda CBR
 
-To preview this project please click on the link [Ema-Jonh](https://ema-jonh-ecommerce.netlify.app/).
+To preview this project please click on the link [Honda-CBR](https://honda-cbr1000r.netlify.app/).
