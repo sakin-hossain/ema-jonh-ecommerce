@@ -28,6 +28,7 @@ const Cart = (props) => {
             <p>Total before tax: <span>${total.toFixed(2)}</span></p>
             <p>Estimated Tax: <span>${tax.toFixed(2)}</span></p>
             <h3>Order Total: <span>${totalWithTax.toFixed(2)}</span></h3>
+            {props.children}
         </div>
     );
 };
